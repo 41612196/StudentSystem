@@ -1,0 +1,38 @@
+Logging in build 2018.0.0.685 started at: Fri Dec  1 19:11:05 2017
+========================================
+
+==========
+Logging ended at: Fri Dec  1 19:11:10 2017
+
+Logging in build 2018.0.0.685 started at: Fri Dec  1 19:12:40 2017
+========================================
+[00:00:31.563] 19:13:12.786 | AssertInDebug: failed to convert updater data to XML: Error #1085-
+[00:02:51.969] 19:15:33.260 | quitWithUI:Quitting Application. Called by: 
+[00:02:51.969] 19:15:33.260 | Quitting Application after 2.4 minutes. Called by: 
+[00:02:56.172] Logging shutdown normally
+
+==========
+Logging ended at: Fri Dec  1 19:15:38 2017
+
+Logging in build 2018.0.0.685 started at: Fri Dec  1 20:27:31 2017
+========================================
+[00:00:08.062] 20:27:39.641 | Error - IMS : IMSLib not loaded
+[00:00:17.703] 20:27:49.281 | quitWithUI:Quitting Application. Called by: 
+[00:00:17.703] 20:27:49.289 | Quitting Application after 0.2 minutes. Called by: 
+[00:00:20.640] Logging shutdown normally
+
+==========
+Logging ended at: Fri Dec  1 20:27:52 2017
+
+Logging in build 2018.0.0.685 started at: Fri Dec  1 20:28:29 2017
+========================================
+[00:00:07.734] 20:28:37.502 | Error - IMS : IMSLib not loaded
+[00:00:58.109] 20:29:27.877 | quitWithUI:Quitting Application. Called by: 
+[00:00:58.125] 20:29:27.886 | Quitting Application after 0.9 minutes. Called by: 
+[00:01:01.875] Logging shutdown normally
+
+==========
+Logging ended at: Fri Dec  1 20:29:31 2017
+
+Logging in build 2018.0.0.685 started at: Wed Dec 20 16:32:12 2017
+========================================

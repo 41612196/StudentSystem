@@ -1,0 +1,40 @@
+@charset "utf-8";
+table{
+	font-size:12px;
+    table-layout:fixed;
+    border-collapse: collapse;
+    margin:0 auto;
+}
+
+td{
+    height:25px;
+}
+
+
+
+/*第一套css*/
+table.table1{
+    border:1px solid #9db3c5;
+    color:#633123;
+	
+}
+table.table1 th {
+    background-color:#B4CDCD;
+    height:30px;
+    color:#453a32;
+	border:1px solid #a7d1fd;
+    padding:0 2px 0;
+}
+table.table1 td{
+    border:1px dotted #cad9ea;
+	padding: 3px 0 0 0;
+	text-align:center;
+	height:25px;
+}
+
+table.table1 tr.interval{
+    background-color:#e8f3fd;
+}
+
+/* CSS Document */
+
